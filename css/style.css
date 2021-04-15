@@ -1,0 +1,454 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+.body{
+    background-color: #999999;
+}
+.container{
+    
+}
+header{
+    padding: 25px 0px;
+}
+.row{
+    
+}
+.banner{
+ 
+}
+.abt-banner{
+    text-align: center;
+}
+.abt-banner h1{
+        font-size: 130px;
+    color: white;
+    margin-top: 100px;
+}
+.abt-banner span{
+        border-bottom: 2px solid #15a4fa;
+    margin: 0px auto;
+    display: block;
+    width: 55%;
+}
+.abt-banner p{
+        font-size: 21px;
+    color: white;
+    margin-top: 30px;
+}
+.abt-banner button{
+                  cursor: pointer;
+    background: transparent;
+    border: 2px solid #15a4fa;
+    padding: 15px 50px;
+    font-size: 18px;
+    color: white;
+        margin-top: 30px;
+        margin-bottom: 140px;
+    border-radius: 4px;
+}
+.container-fluid{
+    background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    padding: 25px 0px;
+}
+.abt-banner i{
+      display: block;
+    margin: 0px auto;
+    font-size: 30px;
+    color: white;
+}
+.abt-simple{
+    padding: 25px 0px;
+    background-color: #f6f9f9;
+}
+.abt-simple h1{
+        font-size: 45px;
+    text-align: center;
+    color: #2d3950;
+        margin-top: 45px;
+}
+.abt-simple p{
+        width: 80%;
+    text-align: center;
+    margin: 0px auto;
+    font-weight: 600;
+    margin-top: 25px;
+    color: #999999;
+    margin-bottom: 60px;
+}
+.abt-icon{
+    padding: 25px 0px;
+    background-color: #ffffff;
+}
+.icon{
+        text-align: center;
+}
+.icon i{
+     width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #48baff;
+    color: white;
+    font-size: 80px;
+    margin-top: 15px;
+    position: relative;
+}
+.icon i::after{
+       position: absolute;
+    content: '';
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background-color: aliceblue;
+    opacity: 0.4;
+}
+.icon h2{
+          font-size: 24px;
+    font-weight: 400;
+    color: #2d3950;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.icon p{
+        font-size: 17px;
+    color: #999999;
+}
+.icon-plane{
+     text-align: center;
+}
+.icon-plane i{
+     width: 90px;
+    height: 90px;
+    line-height: 90px;
+    background-color: #48baff;
+    color: white;
+    font-size: 60px;
+    margin-top: 15px;
+    position: relative;
+}
+.icon-plane i::after{
+       position: absolute;
+    content: '';
+    right: 0;
+    width: 50%;
+    height: 100%;
+    background-color: aliceblue;
+    opacity: 0.4;
+}
+.icon-plane h2{
+          font-size: 24px;
+    font-weight: 400;
+    color: #2d3950;
+    margin-top: 20px;
+    margin-bottom: 25px;
+}
+.icon-plane p{
+     font-size: 17px;
+    color: #999999;
+}
+.abt-show {
+    background-color: #f6f9f9;
+    padding: 25px 0px;
+    text-align: center;
+}
+.abt-show h1{
+    font-size: 45px;
+    color: #2d3950;
+    margin-top: 40px;
+}
+    
+
+.abt-show p{
+        font-size: 17px;
+    color: #a4a5a5;
+    margin-top: 13px;
+    margin-bottom: 50px;
+}
+.first-img {
+  margin-bottom: 20px;
+}
+.container{
+    
+}
+.bbb {
+    background-image: url(../img/stay.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.abt-box {
+    padding: 25px 0px;
+    text-align: center;
+}
+.abt-box h1 {
+    font-size: 45px;
+    color: white;
+        margin-top: 30px;
+}
+.abt-box p{
+        font-size: 17px;
+    color: white;
+    margin-top: 18px;
+}
+.abt-box form {
+    
+}
+.name-box {
+        width: 560px;
+    padding: 20px;
+    background: transparent;
+    border: 1px solid white;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.email-box {
+        width: 560px;
+    padding: 20px;
+    background: transparent;
+    border: 1px solid white;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+}
+.me-box {
+      width: 560px;
+    padding: 20px;
+    background: transparent;
+    border: 1px solid white;
+    font-size: 20px;
+    border-radius: 5px;
+    margin-bottom: 15px;
+    padding-bottom: 73px;
+}
+.btn-send {
+        margin-left: 218px;
+    background: transparent;
+    color: white;
+    font-size: 18px;
+    padding: 6px 66px;
+    border: 1px solid red;
+    border-radius: 5px;
+}
+.ccc {
+    color: white;
+}
+.abt-copy {
+    
+}
+.abt-copy h5 {
+    font-size: 15px;
+    color: #9f9f9f;
+    margin: 15px 0px;
+}
+.for-icon {
+    text-align: right;
+}
+.for-icon ul{
+    
+}
+.for-icon ul li{
+     list-style: none;
+    margin: 0px auto;
+    display: inline-block;
+    margin: 2px;
+    padding: 11px 13px;
+    border-radius: 3px;
+    background-color: #15a4fa;
+    color: white;
+}
+.fa.fa-facebook {
+      padding: 0px 5px;
+}
+.fa.fa-twitter {
+    padding: 0px 3px;
+}
+.fa.fa-google-plus {
+     padding: 0px 1px;
+}
+.fa.fa-linkedin {
+      padding: 0px 5px;
+}
+
+
+
+
+/*media quary*/
+@media(min-width: 320px) and (max-width:576px){
+
+    .abt-logo{
+        margin: 0px auto;
+        display: block;
+    }
+    .banner{
+         background-image: url(../img/banner.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    }
+    .abt-banner h1{
+       font-size: 45px;
+    color: white;
+    margin: 0px auto;
+    display: block;
+    }
+    .abt-banner span{
+margin: 0px auto;
+    display: block;
+    margin-top: 5px;
+    }
+    .abt-banner p{
+            font-size: 15px;
+    margin: 0px auto;
+        margin-top: 10px;
+    }
+    .abt-banner button{
+     padding: 7px 17px;
+    font-size: 10px;
+    margin: 0px auto;
+    margin-bottom: 50px;
+    margin-top: 10px;
+        border-radius: 4px;
+    }
+    .abt-banner i{
+    font-size: 15px;
+    }
+    .abt-simple{
+    padding: 25px 0px;
+    background-color: #f6f9f9;
+}
+    .abt-simple h1{
+            font-size: 25px;
+    }
+    .abt-simple p{
+font-size: 15px;
+    }
+    .icon{
+        text-align: center;
+}
+    .icon i{
+  width: 45px;
+    height: 45px;
+    line-height: 45px;
+    background-color: #48baff;
+    color: white;
+    font-size: 40px;
+}
+    .icon h2 {
+                font-size: 25px;
+    }
+    .icon p {
+        font-size: 14px;
+    }
+    
+    
+    
+    .icon-plane{
+     text-align: center;
+}
+    .icon-plane i{
+        width: 45px;
+    height: 45px;
+    line-height: 45px;
+    background-color: #48baff;
+    color: white;
+    font-size: 30px;
+    }
+    .icon-plane i::after {
+        
+    }
+    .icon-plane h2 {
+         font-size: 25px;
+         
+    }
+    .icon-plane p {
+          font-size: 14px;
+    }
+    .abt-show h1{
+            font-size: 21px;
+    }
+    .abt-show p{
+            font-size: 16px;
+    }
+    .first-img{
+        margin: 0px auto;
+    }
+    .second-img{
+        margin: 0px auto;
+    }
+    .eee{
+             width: 100%;
+    margin-bottom: 15px;   
+    }
+    .abt-box {
+        
+    }
+    .abt-box h1 {
+            font-size: 21px;
+    }
+    .abt-box p {
+            font-size: 15px;
+    }
+    .abt-box form {
+        
+    }
+    .name-box {
+        width: 300px;
+    } 
+    .email-box {
+        width: 300px;
+    }
+    .me-box {
+        width: 300px;
+    }
+    .btn-send {
+              padding: 4px 18px;
+    font-size: 12px;
+    margin: 0px;
+    margin-right: -60px;
+    }
+    .ccc{
+            margin-right: 62px;
+    margin-left: -55px;
+}
+    .fff {
+     
+    }
+    .abt-copy {
+        
+    }
+    .abt-copy h5 {
+        font-size: 8px;
+    }
+    .for-icon ul{
+            margin: -38px auto;
+    }
+    .for-icon ul li {
+        font-size: 9px;
+    }
+    .fa.fa-facebook {
+        
+    }
+    .fa.fa-twitter {
+
+    }
+    .fa.fa-google-plus {
+
+    }
+    .fa.fa-linkedin {
+        
+    } 
+    
+    
+    
+    
+}
+@media(min-width: 576.01px) and (max-width: 768px){
+    
+}
+@media(min-width: 768.01px) and (max-width: 992px){
+   
+}
+@media(min-width: 992.01px) and (max-width: 1200px){
+    
+}
